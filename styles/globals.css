@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cl-post-body p {
+  margin-bottom: 12px;
+}
